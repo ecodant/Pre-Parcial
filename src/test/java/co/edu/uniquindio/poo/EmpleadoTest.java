@@ -10,8 +10,8 @@ import java.util.logging.Logger;
 import org.junit.jupiter.api.Test;
 
 
-public class FincaTest {
-    private static final Logger LOG = Logger.getLogger(FincaTest.class.getName());
+public class EmpleadoTest {
+    private static final Logger LOG = Logger.getLogger(EmpleadoTest.class.getName());
     @Test
     public void calcularSalarioEmpleadoRecoleccion(){
         LOG.info("Cargando Prueba Calcular Salario para los Empleado de Recolección...");
